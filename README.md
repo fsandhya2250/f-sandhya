@@ -1,3 +1,3 @@
 # f-sandhya
 First gib repository
-author-sandhya
+author-sandhya farkande
